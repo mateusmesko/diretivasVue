@@ -1,4 +1,4 @@
-# diretivasVue
+# diretivas-exercicios
 
 ## Project setup
 ```
